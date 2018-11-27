@@ -9,6 +9,6 @@
 
 <body>
     <h1>This is project page2.</h1>
-    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/_w0F-B1JYe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>/p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_w0F-B1JYe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>/
 </body>
 </html>
